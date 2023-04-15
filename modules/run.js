@@ -104,7 +104,7 @@ let scenes = [
 let sceneIndex = 0;
 
 // debugging only
-sceneIndex = scenes.length - 1;
+// sceneIndex = scenes.length - 1;
 
 function loadScene(scene) {
     geometryManager.clear();
