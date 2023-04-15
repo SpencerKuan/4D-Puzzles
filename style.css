@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    overflow: hidden;
+    text-align: center;
+    background: #000;
+}
+canvas {
+    width: 100vw;
+    /* background-color: red; */
+}
+.overlay {
+    color: #fff;
+    position: fixed;
+
+    background-color: #000;
+    
+    right: 0;
+    bottom: 0;
+    margin: 20px;
+    padding: 20px;
+}
+
