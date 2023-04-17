@@ -1,5 +1,7 @@
-# 4D-Puzzles
+# [4D-Puzzles](spencerkuan.github.io/4D-Puzzles/)
+
 A short proof-of-concept first-person platformer with movement and rotations in the 4th dimension. 
+
 
 ## Controls
 
