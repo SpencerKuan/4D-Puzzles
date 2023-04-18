@@ -45,7 +45,7 @@ export let geometryManager = new GeometryManager(run);
 let player;
 
 
-let scenes = await fetch("../levels.json").then(x => x.json());
+let scenes = await fetch("./levels.json").then(x => x.json());
 
 let sceneIndex = 0;
 
