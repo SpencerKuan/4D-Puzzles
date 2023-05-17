@@ -7,12 +7,12 @@ A short proof-of-concept first-person platformer with movement and rotations in 
 
 ### Moving
 - WASD to move in the usual directions. 
-- **Q and E serve as movement in two additional directions that are perpendicular to the other three. 
+- **Q and E serve as movement in two additional directions that are perpendicular to the other three.**
 - Spacebar to jump. 
 
 ### Turning
 - Move the mouse to turn. 
-- **Scroll on the mouse wheel to use an interesting 4D rotation.
+- **Scroll on the mouse wheel to use an interesting 4D rotation.**
 - Alternatively, use UIOJKL to change the player's direction. 
 
 ## Gameplay
